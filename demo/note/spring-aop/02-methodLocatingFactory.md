@@ -5,3 +5,7 @@ MethodLocatingFactory 提供了通过 BeanFactory、BeanName、MethodName 来获
 MethodLocatingFactory类图：
  
  ![MethodLocatingFactory类图](image/MethodLocatingFactory.png)
+ 
+ 
+ 
+ 
